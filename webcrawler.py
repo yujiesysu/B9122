@@ -1,3 +1,8 @@
+'''Make some changes here
+Modified by: Jie (Eva) Yu
+Last modified on: Oct. 10, 2020
+'''
+
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
